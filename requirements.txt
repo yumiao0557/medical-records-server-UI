@@ -1,0 +1,13 @@
+sphinx
+pytest
+pytest-pycodestyle
+flask
+testfixtures
+pandas
+scipy
+matplotlib
+pymodm
+dnspython
+Ipython
+scikit-image
+Pillow
