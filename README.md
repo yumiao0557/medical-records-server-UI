@@ -1,6 +1,9 @@
 ![npm](https://img.shields.io/github/followers/YuMiao329?style=flat-square)
 ![Github Actions Status](https://github.com/BME547-Fall2021/final-project-jimmyu/actions/workflows/pytest_runner.yml/badge.svg)
 # BME 547 Final Project
+
+Video Demo: https://github.com/YuMiao329/medical-records-server-UI/blob/d6d713c75f3626f68b06a0c5809f65ebf9709b47/final_project_demo.mp4
+
 ## By: Jimmy Butch & Yu Miao
 
 The purpose of this repository and program is to run a patient monitoring
